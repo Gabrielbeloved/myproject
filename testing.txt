@@ -1,0 +1,9 @@
+Note that when you create the folder you have to open the folder before you
+ do "git bash" as shown below; I am stressing this because a lot of people make this mistake, 
+even experienced developers.Note that when you create the folder you have to open the folder before you do 
+"git bash" as shown below; I am stressing this because a lot of people make this mistake, even experienced 
+developers.Note that when you create the folder you have to open the folder before you do "gi
+t bash" as shown below; I am stressing this because a lot of people make this mistake, even exp
+erienced developers.Note that when you create the folder you have to open the folder before you 
+do "git bash" as shown below; I am stressing this because a lot o
+f people make this mistake, even experienced developers.
